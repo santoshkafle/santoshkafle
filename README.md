@@ -16,8 +16,9 @@ I'm Android develper and solo game developer.
 
 ---
 
-📂 Featured Projects
+📂 Flutter Projects
 | [Movie List Repo](https://github.com/santoshkafle/movie_lilst)
+| [Flutter loading ui](https://pub.dev/packages/animated_loading_ui)
 
 ---
 
